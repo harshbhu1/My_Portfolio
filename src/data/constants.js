@@ -5,7 +5,7 @@ export const Bio = {
       "Programmer",
     ],
     description: "To kickstart my career as a software developer, utilizing my strong programming skills and eager to learn from experienced professionals. My goal is to contribute effectively to projects, innovate, and grow as a versatile developer while adding value to the organization.",
-    github: "https://github.com/praoo",
+    github: "https://github.com/harshbhu1",
     resume: "https://drive.google.com/file/d/1w56jx-Cm0TVz4KOKFShQoKyrR_K4hT-L/view",
     linkedin: "https://www.linkedin.com/in/prabhat-kumar-singh-0bb7a8252/",
    
