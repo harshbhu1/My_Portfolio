@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/My_Portfolio/static/css/main.02e7db51.css",
+    "main.js": "/My_Portfolio/static/js/main.82bd7d66.js",
+    "static/media/spotify-logo.png": "/My_Portfolio/static/media/spotify-logo.8d8c002ed6d9ab68c183.png",
+    "static/media/Python-logo.png": "/My_Portfolio/static/media/Python-logo.dea924d737bb84eb9ce3.png",
+    "static/media/react-logo.png": "/My_Portfolio/static/media/react-logo.582cbc784710a3dbe704.png",
+    "static/media/portfolio-logo.png": "/My_Portfolio/static/media/portfolio-logo.43f25d98f784f13a8423.png",
+    "static/media/upboard-logo.svg": "/My_Portfolio/static/media/upboard-logo.3f48553ca7c7c77d0eea.svg",
+    "static/media/hbtu-logo.png": "/My_Portfolio/static/media/hbtu-logo.6ad11db231aff320b3c7.png",
+    "static/media/project1.logo.png": "/My_Portfolio/static/media/project1.logo.f7186b0e502166a26542.png",
+    "static/media/CSS3-logo.png": "/My_Portfolio/static/media/CSS3-logo.b3314d1beb073984276d.png",
+    "static/media/vscode-logo.png": "/My_Portfolio/static/media/vscode-logo.691f776a11a21a483030.png",
+    "static/media/CPP-logo.png": "/My_Portfolio/static/media/CPP-logo.053a898d752aef72651e.png",
+    "static/media/bootstrap-logo.png": "/My_Portfolio/static/media/bootstrap-logo.9cd429090069a189475b.png",
+    "static/media/JavaScript-logo.png": "/My_Portfolio/static/media/JavaScript-logo.062825dbceed44567e91.png",
+    "static/media/C-logo.png": "/My_Portfolio/static/media/C-logo.bbbbbabc8c191bfb99bf.png",
+    "static/media/diploma-logo.jpeg": "/My_Portfolio/static/media/diploma-logo.ef0181eb7466c5931728.jpeg",
+    "static/media/nodejs-logo.svg": "/My_Portfolio/static/media/nodejs-logo.bd8ae586b9726f8db265.svg",
+    "static/media/java-logo.svg": "/My_Portfolio/static/media/java-logo.a751bad6c81431ab4dd6.svg",
+    "index.html": "/My_Portfolio/index.html",
+    "main.02e7db51.css.map": "/My_Portfolio/static/css/main.02e7db51.css.map",
+    "main.82bd7d66.js.map": "/My_Portfolio/static/js/main.82bd7d66.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02e7db51.css",
+    "static/js/main.82bd7d66.js"
+  ]
+}
