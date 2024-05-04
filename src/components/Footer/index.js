@@ -91,7 +91,7 @@ function Footer() {
   return (
     <FooterContainer>
       <FooterWrapper>
-        <Logo>PRABHAT KUMAR SINGH</Logo>
+        <Logo>Harsh Maurya</Logo>
           
         
         <Nav>
@@ -112,7 +112,7 @@ function Footer() {
           <SocialMediaIcon href="https://www.facebook.com/prabhatkumarsingh.prabhat.56/" target="display"><FacebookIcon /></SocialMediaIcon>
         </SocialMediaIcons>
         <Copyright>
-          &copy; {new Date().getFullYear()} Prabhat Kumar Singh. All rights reserved.
+          &copy; {new Date().getFullYear()} Harsh Maurya. All rights reserved.
         </Copyright>
 
       </FooterWrapper>
